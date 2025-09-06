@@ -9,12 +9,18 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Wokwi project of Half Adder
 
 ## How to test
+The description foolows as per the truth table
+|        Input  Switch    |           output LED     |
+|-------------------------|--------------------------|
+|SW 1 = LOW, SW 2 = LOW   |  LED 1 = OFF, LED 2 = OFF|
+|SW 1 =  ON, SW 2 = LOW   |  LED 1 =  ON, LED 2 = OFF|
+|SW 1 = LOW, SW 2 =  ON   |  LED 1 =  ON, LED 2 = OFF|
+|SW 1 =  ON, SW 2 =  ON   |  LED 1 =  ON, LED 2 =  ON|
 
-Explain how to use your project
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None, beside the TT demo board.
