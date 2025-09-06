@@ -23,4 +23,6 @@ The description foolows as per the truth table
 
 ## External hardware
 
-None, beside the TT demo board.
+Two LED bulbs are connected at the output of sum and carry The LED will blink when the respective values are high
+
+
